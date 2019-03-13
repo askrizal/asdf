@@ -58,7 +58,7 @@
 			<div class="text-center">
 				<div class="author-img" style="background-image: url(images/foto.jpg);"></div>
 				<h1 id="colorlib-logo"><a href="index.html">Rizal</a></h1>
-				<span class="position"><a href="#">Developer</a> and <a href="#">designer</a></span>
+				<span class="position"><p>JUNIOR</p><a href="#">Developer</a> and <a href="#">designer</a></span>
 			</div>
 			<nav id="colorlib-main-menu" role="navigation" class="navbar">
 				<div id="navbar" class="collapse">
@@ -98,7 +98,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									<div class="about-desc">
 										<span class="heading-meta">About Us</span>
 										<h2 class="colorlib-heading">Who Am I?</h2>
-										<p>My name is Mohammad Rizal Ariansyah. or you can call him Rizal, I was born from Gresik district, or rather in the Pantenan Village of Panceng District, Gresik Regency on Tuesday April 23, 1996. But since 2015 I decided to go to Surabaya to day.</p>
+										<p>My name is Mohammad Rizal Ariansyah. you can call him Rizal, I was born from Gresik, or rather in Pantenan Village of Panceng District, Gresik Regency on Tuesday April 23, 1996. But since 2015 I was to go to Surabaya for studying after day .</p>
 										<p>in Surabaya I lived in the Kosagraha House or rather, on Jalan Medayu Selatan gang XI Blok J Number 28,</p>
 										<p>I am a final collage student at the Surabaya NSC Polytechnic located on the road of Basuki Rahmad. take a major of Computer Technology Since 2016. I am a student have become for working and studying. because my lecture it was very flexible (i can be morning or night) so my studying not offend my activity or working.</p>
 										<p>Am so interested about world of designer and computer technology a spesially programing Apps or mobile programing. i can do web programing. but, Am so interested to mobile programing. </p>
@@ -227,7 +227,17 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 								</div>
 							</div>
 						</div>
-
+						<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div class="progress-wrap">
+								<h3>Flutter</h3>
+								<div class="progress">
+								 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="75"
+								  	aria-valuemin="0" aria-valuemax="100" style="width:75%">
+								    <span>50%</span>
+								  </div>
+								</div>
+							</div>
+						</div>
 						<div class="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div class="progress-wrap">
 								<h3>My SQL</h3>
@@ -397,7 +407,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 									<p>Kosagraha, medayu selatan XI block J number 28</p>
 								</div>
 							</div>
-
+							
 							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
 								<div class="colorlib-icon">
 									<i class="icon-phone"></i>
@@ -415,7 +425,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 								</div>
 							</div>
 						</div>
-						<div class="col-md-7 col-md-push-1">
+						<!-- <div class="col-md-7 col-md-push-1">
 							<div class="row">
 								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
 									<form action="">
@@ -438,7 +448,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 								</div>
 								
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</section>
